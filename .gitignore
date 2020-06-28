@@ -26,6 +26,7 @@
 .firebase/
 .firebaserc
 .editorconfig
+firebase.*
 
 # misc
 /.sass-cache
